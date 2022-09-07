@@ -35,38 +35,14 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oFx5R5w2rAQafe2mqeWIVYksQyD0",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "jmuVXJwO4zXS_ajwGl7--4B-kUyF4IWAjGhXcpleyzc",
+      useTemplateId: "zRKsdqyI5XfGB2JC81mGd8RBeEHhilOuovcY7MFwX14",
       // 所在省份
       province: "河北",
       // 所在城市
       city: "邯郸",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "http://xn--0tr73f59srhm6ham6ihw6a.xn--4gqz6tfur0m4arrc.xn--6qq986b3xl/"
-    }, 
-    {
-      name: "老婆1", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
-    }, 
-    {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
-    }, 
-    {
-      name: "老婆3", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
-    }, 
+    }
   ],
 
   /**
